@@ -1,3 +1,5 @@
+THIS PROJECT WAS DONE FOR AN ONLINE COURSE - "Complete React Developer in 2019 (w/ Redux, Hooks, GraphQL)" https://www.udemy.com/complete-react-developer-zero-to-mastery/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
